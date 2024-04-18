@@ -34,6 +34,8 @@ ul{
     text-align: center;
     font-size: 30px;
     margin-top: 30px;
+    max-height: 400px;
+    overflow-y: auto;
 
 
 }
@@ -41,5 +43,5 @@ span:hover {
     background-color: #b7bfc5;
     color: white;
     font-weight: bold;
-    cursor: 
+    cursor: pointer;
 }
